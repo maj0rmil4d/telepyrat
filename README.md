@@ -83,7 +83,7 @@ please don't forget to change Token (use @botfather to gain a token) in t.py fil
 
 and at the end ... i recommend to watch this video :
 	
-	youtube_link : 
+	youtube_link : https://youtu.be/_hJm5CSxFxc
 
 ****========================================================================****
 
