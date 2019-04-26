@@ -77,6 +77,7 @@ please don't forget to change Token (use @botfather to gain a token) in t.py fil
 
 	hint : "just reverse the above functions to create a encoded token and replace it with this one"
 
+****========================================================================****
 
 and at the end ... i recommend to watch this video :
 	
