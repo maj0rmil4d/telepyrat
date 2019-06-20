@@ -69,8 +69,8 @@ used packages :
 	import pyttsx
 	from binascii import b2a_base64
 
-	hint : " for telegram and telegram.ext packages please install python-telegram-bot with pip :)"
-
+	hint : " simply run pip -r install req.txt"
+	
 please don't forget to change Token (use @botfather to gain a token) in t.py file :
 	
 	token = '3kDN0gDN4UjN6EUQFdjSfJ2TIBTZ6ZjRZNHaoB3QvFXbvJDUmVXQJd3YSNGO'
